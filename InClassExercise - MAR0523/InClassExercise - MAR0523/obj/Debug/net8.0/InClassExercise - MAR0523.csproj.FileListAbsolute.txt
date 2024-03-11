@@ -1,0 +1,14 @@
+C:\Users\Criff\source\repos\InClassExercise - MAR0523\InClassExercise - MAR0523\bin\Debug\net8.0\InClassExercise - MAR0523.exe
+C:\Users\Criff\source\repos\InClassExercise - MAR0523\InClassExercise - MAR0523\bin\Debug\net8.0\InClassExercise - MAR0523.deps.json
+C:\Users\Criff\source\repos\InClassExercise - MAR0523\InClassExercise - MAR0523\bin\Debug\net8.0\InClassExercise - MAR0523.runtimeconfig.json
+C:\Users\Criff\source\repos\InClassExercise - MAR0523\InClassExercise - MAR0523\bin\Debug\net8.0\InClassExercise - MAR0523.dll
+C:\Users\Criff\source\repos\InClassExercise - MAR0523\InClassExercise - MAR0523\bin\Debug\net8.0\InClassExercise - MAR0523.pdb
+C:\Users\Criff\source\repos\InClassExercise - MAR0523\InClassExercise - MAR0523\obj\Debug\net8.0\InClassExercise - MAR0523.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Criff\source\repos\InClassExercise - MAR0523\InClassExercise - MAR0523\obj\Debug\net8.0\InClassExercise - MAR0523.AssemblyInfoInputs.cache
+C:\Users\Criff\source\repos\InClassExercise - MAR0523\InClassExercise - MAR0523\obj\Debug\net8.0\InClassExercise - MAR0523.AssemblyInfo.cs
+C:\Users\Criff\source\repos\InClassExercise - MAR0523\InClassExercise - MAR0523\obj\Debug\net8.0\InClassExercise - MAR0523.csproj.CoreCompileInputs.cache
+C:\Users\Criff\source\repos\InClassExercise - MAR0523\InClassExercise - MAR0523\obj\Debug\net8.0\InClassExercise - MAR0523.dll
+C:\Users\Criff\source\repos\InClassExercise - MAR0523\InClassExercise - MAR0523\obj\Debug\net8.0\refint\InClassExercise - MAR0523.dll
+C:\Users\Criff\source\repos\InClassExercise - MAR0523\InClassExercise - MAR0523\obj\Debug\net8.0\InClassExercise - MAR0523.pdb
+C:\Users\Criff\source\repos\InClassExercise - MAR0523\InClassExercise - MAR0523\obj\Debug\net8.0\InClassExercise - MAR0523.genruntimeconfig.cache
+C:\Users\Criff\source\repos\InClassExercise - MAR0523\InClassExercise - MAR0523\obj\Debug\net8.0\ref\InClassExercise - MAR0523.dll

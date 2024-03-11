@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "InClassExercise - MAR0523/1.0.0": {
+        "runtime": {
+          "InClassExercise - MAR0523.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InClassExercise - MAR0523/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
